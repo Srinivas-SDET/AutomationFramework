@@ -1,4 +1,4 @@
-package stepclass;
+package TestNG.Framework;
 
 import java.util.concurrent.TimeUnit;
 
